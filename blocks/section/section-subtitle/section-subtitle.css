@@ -1,0 +1,17 @@
+.section-subtitle {
+    text-transform: uppercase;
+    line-height: 1.6;
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+    .section-subtitle {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 468px) {
+    .section-subtitle {
+        font-size: 10px;
+    }
+}

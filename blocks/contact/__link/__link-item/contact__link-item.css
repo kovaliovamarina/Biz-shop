@@ -1,0 +1,7 @@
+.contact__link-item {
+    margin-right: 10px;
+}
+
+.contact__link-item:hover {
+    opacity: 0.5;
+}

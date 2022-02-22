@@ -1,0 +1,20 @@
+.header__lang-link {
+    text-decoration: none;
+    color: gray;
+    margin-right: 20px;
+}
+
+.header__lang-link:last-child {
+    margin-right: 0px;
+}
+
+.header__lang-link:hover {
+    opacity: 0.5;
+}
+
+@media (max-width: 468px) {
+    .header__lang-link {
+        margin-right: 10px;
+        font-size: 14px;
+    }
+}

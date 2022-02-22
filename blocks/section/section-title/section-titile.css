@@ -1,0 +1,17 @@
+.section-title {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+    .section-title {
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 468px) {
+    .section-title {
+        font-size: 12px;
+    }
+}

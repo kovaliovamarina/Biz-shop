@@ -1,0 +1,24 @@
+.info__content {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-left: 60px;
+    padding-right: 60px;
+    overflow-x: hidden;
+}
+
+@media (max-width: 768px) {
+    .info__content {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+@media (max-width: 425px) {
+    .info__content {
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,12 @@
+.footer__description {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+@media (max-width: 760px) {
+    .footer__description {
+        flex-direction: column;
+        margin-top: 20px;
+    }
+}

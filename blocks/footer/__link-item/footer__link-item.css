@@ -1,0 +1,15 @@
+.footer__link-item {
+    margin-right: 15px;
+    /* margin-left: 10px; */
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+
+.footer__link-item:last-child {
+    margin-right: 0px;
+}
+
+.footer__link-item:hover {
+    opacity: 0.5;
+}
