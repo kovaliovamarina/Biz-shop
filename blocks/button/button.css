@@ -6,6 +6,7 @@
     text-transform: inherit;
     margin-bottom: 20px;
     margin-top: 20px;
+    border: solid 2px;
 }
 
 .button:hover {
