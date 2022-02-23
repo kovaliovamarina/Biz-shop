@@ -1,9 +1,9 @@
 .footer__link-item {
     margin-right: 15px;
-    /* margin-left: 10px; */
     text-decoration: none;
     text-transform: uppercase;
     color: black;
+    text-decoration: none;
 }
 
 .footer__link-item:last-child {
